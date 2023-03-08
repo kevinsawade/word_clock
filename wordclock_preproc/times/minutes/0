@@ -1,0 +1,4 @@
+int oclock[] = {268,241,243,244,9,8,7,6,5,4,};
+for (int i = 0; i < 10; i++){
+leds[oclock[i]] = CHSV( COLOR,155,100);
+}

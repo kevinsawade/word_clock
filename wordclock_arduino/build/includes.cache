@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/usr/share/arduino/hardware/archlinux-arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/usr/share/arduino/hardware/archlinux-arduino/avr/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/root/arduino_sketches/wordclock_arduino/build/sketch/wordclock_arduino.ino.cpp",
+    "Include": "FastLED.h",
+    "Includepath": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6"
+  },
+  {
+    "Sourcefile": "/root/arduino_sketches/wordclock_arduino/build/sketch/wordclock_arduino.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/FastLED.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/bitswap.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/colorpalettes.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/colorutils.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/hsv2rgb.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/lib8tion.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/noise.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/power_mgt.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/share/arduino/hardware/archlinux-arduino/avr/libraries/FastLED-3.1.6/wiring.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

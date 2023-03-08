@@ -1,0 +1,1 @@
+arduino-builder -verbose -debug-level 10 -fqbn archlinux-arduino:avr:nano:cpu=atmega328 -hardware /usr/share/arduino/hardware/ -tools /usr/bin/ -compile -build-path /root/arduino_sketches/wordclock_arduino/build/ /root/arduino_sketches/wordclock_arduino/wordclock_arduino.ino

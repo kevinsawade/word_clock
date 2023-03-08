@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "",
+  "customBuildProperties": "",
+  "fqbn": "archlinux-arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "/usr/share/arduino/hardware",
+  "otherLibrariesFolders": "",
+  "runtime.ide.version": "10600",
+  "sketchLocation": "/root/arduino_sketches/wordclock_arduino/wordclock_arduino.ino",
+  "toolsFolders": "/usr/bin/"
+}

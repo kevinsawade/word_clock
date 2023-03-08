@@ -1,0 +1,4 @@
+int hours[] = {72,71,70};
+for (int i = 0; i < 3; i++){
+leds[hours[i]] = CHSV( COLOR,255,100);
+}
